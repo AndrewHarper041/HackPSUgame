@@ -1,0 +1,26 @@
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [nvumdshim.dll 8.17.12.6754]
+    Renderer: NVIDIA GeForce GT 540M   
+    Vendor:   NVIDIA
+    VRAM:     993 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 DF24=0 INTZ=1 RAWZ=0 NULL=1 RESZ=0 SlowINTZ=0
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+Initialize engine version: 3.5.6f4
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\HackPSU Game FINAL MUSIC\gameTeamUpload\game\aMAZEing_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\HackPSU Game FINAL MUSIC\gameTeamUpload\game\aMAZEing_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\HackPSU Game FINAL MUSIC\gameTeamUpload\game\aMAZEing_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading D:\HackPSU Game FINAL MUSIC\gameTeamUpload\game\aMAZEing_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: D:\HackPSU Game FINAL MUSIC\gameTeamUpload\game\aMAZEing_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\HackPSU Game FINAL MUSIC\gameTeamUpload\game\aMAZEing_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\HackPSU Game FINAL MUSIC\gameTeamUpload\game\aMAZEing_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading D:\HackPSU Game FINAL MUSIC\gameTeamUpload\game\aMAZEing_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+- Completed reload, in  0.303 seconds
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 363. Operation took 7.933885 ms.
+Platform assembly: D:\HackPSU Game FINAL MUSIC\gameTeamUpload\game\aMAZEing_Data\Managed\UnityScript.Lang.dll (this message is harmless)
+Platform assembly: D:\HackPSU Game FINAL MUSIC\gameTeamUpload\game\aMAZEing_Data\Managed\Boo.Lang.dll (this message is harmless)
